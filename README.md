@@ -2,6 +2,7 @@
 
 
 >[English] This project uses the back-end separation development, mainly using *vue* and *springboot* framework, to achieve a library management system.
+>
 >[简体中文]本项目使用前后端分离开发，主要使用*vue*和*springboot*框架，实现了一个书库管理的系统。
 
 
